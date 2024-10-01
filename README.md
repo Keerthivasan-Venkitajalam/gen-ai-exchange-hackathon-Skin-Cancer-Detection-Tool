@@ -2,7 +2,7 @@
 
 
 
-### Docker Image: https://hub.docker.com/r/conero007/skin-cancer-detection
+### Docker Image: [https://hub.docker.com/r/conero007/skin-cancer-detection](https://hub.docker.com/repository/docker/keerrrthiv/gen-ai-exchange-hackathon-skin-cancer-detection-tool/general)
 
 ---
 ## Table of Contents
